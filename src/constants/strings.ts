@@ -1,5 +1,5 @@
 export const WORDLE_TITLE = 'Culegas Wordle'
-
+export const GAME_TITLE = 'Culegas Wordle'
 export const WIN_MESSAGES = ['Todo ok Jose Luis!', 'Cómo lo quemas!', 'Te has cagado!', 'Has hecho trampas, a Porras vas', 'Un eals para ti!', 'Atesora la victoria!']
 export const GAME_COPIED_MESSAGE = 'Copiado al portapapeles'
 export const ABOUT_GAME_MESSAGE = 'Sobre esta mierda'
