@@ -32,7 +32,5 @@ export const WORDS = [
   'sitio',
   'tequi',
   'tetas',
-  'tetil'
+  'tetil',
 ]
-
-
