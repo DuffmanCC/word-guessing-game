@@ -20,6 +20,7 @@ export const WORDS = [
   "gordo",
   "grimo",
   "guaaa",
+  "guapa",
   "hiede",
   "hutas",
   "jutas",
@@ -27,6 +28,7 @@ export const WORDS = [
   "kiara",
   "kiick",
   "lloro",
+  "lucia",
   "ooort",
   "orden",
   "orras",
@@ -35,6 +37,7 @@ export const WORDS = [
   "pacop",
   "pisil",
   "puton",
+  "randy",
   "reina",
   "rrata",
   "saooo",
@@ -42,4 +45,5 @@ export const WORDS = [
   "tequi",
   "tetas",
   "tetil",
+  "womad"
 ]
