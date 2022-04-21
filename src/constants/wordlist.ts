@@ -29,6 +29,7 @@ export const WORDS = [
   "kiick",
   "lloro",
   "lucia",
+  "nacho",
   "ooort",
   "orden",
   "orras",
